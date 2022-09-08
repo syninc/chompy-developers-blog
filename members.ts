@@ -62,4 +62,12 @@ export const members: Member[] = [
     avatarSrc: `${urlPrefix}/avatars/taishi.jpeg`,
     githubUsername: "tyapama",
   },
+  {
+    id: "some",
+    name: "some",
+    bio: "ChompyでPMをしています。現在プログラミング修行中です。",
+    avatarSrc: `${urlPrefix}/avatars/some.jpeg`,
+    twitterUsername: "sometty_",
+    githubUsername: "sometty",
+  },
 ];
